@@ -32,8 +32,8 @@ Passionate and detail-oriented Full-Stack Web Developer based in Cambodia. I spe
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Replace with your link)*
-* **Email:** [your.email@example.com](mailto:your.email@example.com) *(Replace with your email)*
-* **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev) *(Replace with your website if you have one)*
+* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/lenglykoura) *(Replace with your link)*
+* **Email:** [your.email@example.com](mailto:lenglykoura@hotmail.com) *(Replace with your email)*
+* **Portfolio:** [yourportfolio.dev](https://lenglykoura.dev) *(Replace with your website if you have one)*
 
 *"Code is like humor. When you have to explain it, it’s bad."* 😉

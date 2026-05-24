@@ -21,11 +21,11 @@ Passionate and detail-oriented Full-Stack Web Developer based in Cambodia. I spe
 ⚡ Ready to see what I've been working on? Check out my performance stats below:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LengLykoura&show_icons=true&theme=tokyonight&count_private=true" alt="Lykoura's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LengLykoura&show_icons=true&theme=tokyonight&count_private=true" alt="Lykoura's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LengLykoura&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LengLykoura&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---

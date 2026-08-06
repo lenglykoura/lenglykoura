@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0118,40:FF2E97,100:00F0FF&height=200&section=header&text=LENG%20LYKOURA&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%3C%20full-stack%20web%20developer%20%2F%2F%20cambodia%20%3E&descAlignY=56&descSize=16" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2600&pause=800&color=FF2E97&background=0A011800&center=true&vCenter=true&width=600&lines=LARAVEL+%2F%2F+SPRING+BOOT+%2F%2F+VUE;ARCHITECTING+SCALABLE+SYSTEMS;SHIPPING+CLEAN+INTERFACES" alt="typing" />

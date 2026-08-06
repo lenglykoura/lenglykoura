@@ -1,123 +1,111 @@
-<!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a5298,100:4FC08D&height=180&section=header&text=Leng%20Lykoura&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20%7C%20Cambodia%20%F0%9F%87%B0%F0%9F%87%AD&descAlignY=52&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0118,40:FF2E97,100:00F0FF&height=200&section=header&text=LENG%20LYKOURA&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%3C%20full-stack%20web%20developer%20%2F%2F%20cambodia%20%3E&descAlignY=56&descSize=16" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://lenglykoura.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4FC08D&center=true&vCenter=true&width=520&lines=Laravel+%2B+Spring+Boot+on+the+backend;Vue.js+on+the+frontend;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2600&pause=800&color=FF2E97&background=0A011800&center=true&vCenter=true&width=600&lines=LARAVEL+%2F%2F+SPRING+BOOT+%2F%2F+VUE;ARCHITECTING+SCALABLE+SYSTEMS;SHIPPING+CLEAN+INTERFACES" alt="typing" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/lenglykoura"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lenglykoura@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <a href="https://lenglykoura.dev"><img src="https://img.shields.io/badge/Portfolio-1a2a6c?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=LengLykoura&style=for-the-badge&color=4FC08D&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/-BACKEND-0A0118?style=for-the-badge&labelColor=FF2E97" />
+  <img src="https://img.shields.io/badge/-FRONTEND-0A0118?style=for-the-badge&labelColor=00F0FF" />
+  <img src="https://img.shields.io/badge/-DEVOPS-0A0118?style=for-the-badge&labelColor=A855F7" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:A855F7,100:00F0FF&height=3&section=header" width="100%" />
 
-## 🧑‍💻 About Me
-
-```php
-<?php
-
-namespace Cambodia\Developers;
-
-final class LengLykoura
-{
-    public string $role     = 'Full-Stack Web Developer';
-    public array  $backend  = ['Laravel', 'Spring Boot'];
-    public array  $frontend = ['Vue.js', 'JavaScript', 'Tailwind'];
-    public string $focus    = 'Robust architectures + clean, intuitive UIs';
-
-    public function currently(): array
-    {
-        return [
-            '🔭 Building'  => 'Scalable web platforms end-to-end',
-            '🌱 Learning'  => 'System design & clean architecture',
-            '💬 Ask me'    => 'Laravel, Spring Boot, Vue, REST APIs',
-            '⚡ Fun fact'  => 'Code is like humor — if you explain it, it is bad.',
-        ];
-    }
-}
-```
-
----
-
-## 🛠️ Tech Stack
+<h3 align="center">◤ SYSTEM PROFILE ◢</h3>
 
 <table align="center">
-  <tr>
-    <td align="center" width="150"><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🚀 DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**` IDENTITY `**
+
+```yaml
+handle:   LengLykoura
+role:     Full-Stack Web Developer
+region:   Phnom Penh, KH
+status:   ONLINE
+```
+
+</td>
+<td width="50%" valign="top">
+
+**` DIRECTIVE `**
+
+```yaml
+build:    scalable backend systems
+craft:    responsive, intuitive UIs
+solve:    complexity → elegance
+ship:     production, not prototypes
+```
+
+</td>
+</tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:A855F7,100:FF2E97&height=3&section=header" width="100%" />
 
-## 📊 GitHub Stats
+<h3 align="center">◤ LOADED MODULES ◢</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LengLykoura&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=4FC08D&icon_color=4FC08D" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LengLykoura&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=4FC08D" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Laravel-0A0118?style=for-the-badge&logo=laravel&logoColor=FF2E97" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0A0118?style=for-the-badge&logo=springboot&logoColor=FF2E97" />
+  <img src="https://img.shields.io/badge/PHP-0A0118?style=for-the-badge&logo=php&logoColor=FF2E97" />
+  <img src="https://img.shields.io/badge/Java-0A0118?style=for-the-badge&logo=openjdk&logoColor=FF2E97" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LengLykoura&hide_border=true&theme=tokyonight&background=1a1b27&ring=4FC08D&fire=FF2D20&currStreakLabel=4FC08D" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Vue.js-0A0118?style=for-the-badge&logo=vuedotjs&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0118?style=for-the-badge&logo=javascript&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/HTML5-0A0118?style=for-the-badge&logo=html5&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/CSS3-0A0118?style=for-the-badge&logo=css3&logoColor=00F0FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LengLykoura&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://img.shields.io/badge/MySQL-0A0118?style=for-the-badge&logo=mysql&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0118?style=for-the-badge&logo=postgresql&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Redis-0A0118?style=for-the-badge&logo=redis&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Docker-0A0118?style=for-the-badge&logo=docker&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Nginx-0A0118?style=for-the-badge&logo=nginx&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Ubuntu-0A0118?style=for-the-badge&logo=ubuntu&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Cloudflare-0A0118?style=for-the-badge&logo=cloudflare&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Git-0A0118?style=for-the-badge&logo=git&logoColor=A855F7" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:A855F7,100:00F0FF&height=3&section=header" width="100%" />
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LengLykoura/LengLykoura/output/snake.svg" alt="Snake animation" />
-</p>
-
----
+<h3 align="center">◤ TELEMETRY ◢</h3>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> 😉
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LengLykoura&show_icons=true&count_private=true&hide_border=true&bg_color=0A0118&title_color=FF2E97&text_color=00F0FF&icon_color=A855F7&custom_title=%E2%97%A4%20OUTPUT%20%E2%97%A2" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LengLykoura&layout=compact&langs_count=8&hide_border=true&bg_color=0A0118&title_color=FF2E97&text_color=00F0FF&custom_title=%E2%97%A4%20LANGUAGES%20%E2%97%A2" alt="languages" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC08D,50:2a5298,100:1a2a6c&height=120&section=footer" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=LengLykoura&hide_border=true&background=0A0118&ring=FF2E97&fire=00F0FF&currStreakLabel=FF2E97&sideLabels=00F0FF&currStreakNum=ffffff&sideNums=ffffff&dates=A855F7" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LengLykoura&bg_color=0A0118&color=00F0FF&line=FF2E97&point=A855F7&area=true&area_color=FF2E97&hide_border=true&custom_title=%E2%97%A4%20SIGNAL%20LOG%20%E2%97%A2" alt="activity" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:A855F7,100:FF2E97&height=3&section=header" width="100%" />
+
+<h3 align="center">◤ ESTABLISH CONNECTION ◢</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/lenglykoura"><img src="https://img.shields.io/badge/LINKEDIN-0A0118?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A0118" /></a>
+  <a href="mailto:lenglykoura@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0118?style=for-the-badge&logo=maildotru&logoColor=FF2E97&labelColor=0A0118" /></a>
+  <a href="https://lenglykoura.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0A0118?style=for-the-badge&logo=firefoxbrowser&logoColor=A855F7&labelColor=0A0118" /></a>
+  <img src="https://komarev.com/ghpvc/?username=LengLykoura&style=for-the-badge&color=FF2E97&label=SCANS&labelColor=0A0118" />
+</p>
+
+<p align="center">
+  <i>「 Code is like humor. When you have to explain it, it's bad. 」</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,60:FF2E97,100:0A0118&height=140&section=footer" width="100%" />
 </p>

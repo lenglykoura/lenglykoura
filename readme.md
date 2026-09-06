@@ -26,14 +26,6 @@
 
 ---
 
-### 🛠️ What I Work With
-
-- **Frontend:** Vue.js, JavaScript, HTML, CSS
-- **Backend:** Laravel, Spring Boot
-- **Tools:** Git, GitHub
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">

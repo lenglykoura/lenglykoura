@@ -6,7 +6,7 @@
 
 <br/>
 
-<h1 align="center">Hi, I'm Lengly Koura 👋</h1>
+<h1 align="center">Hi, I'm Leng Lykoura 👋</h1>
 <h3 align="center">Full-Stack Web Developer | Build · Solve · Grow</h3>
 
 <p align="center">
